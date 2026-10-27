@@ -70,8 +70,7 @@ S. C., Svindt, J., Lund, X. L., Gajhede, M., Saaby,
 L., Brodin, B., Rump, S., Weigt ,
 H., Brünner , N., &
 Stenvang, J. (2020). The pyrazolo [3, 4-d] pyrimidine derivative, SCO-201,
-reverses multidrug resistance mediated by ABCG2/BCRP. Cells, 9(3),
-613.
+reverses multidrug resistance mediated by ABCG2/BCRP. Cells, 9(3), 613.
 
 
 
@@ -86,8 +85,7 @@ England Journal of Medicine, 350(23), 2343–2351.
 - Annunziata, F., Pinna, C.,
 Dallavalle, S., Tamborini, L., & Pinto, A. (2020). An overview of coumarin
 as a versatile and readily accessible scaffold with broad-ranging biological
-activities. International Journal of Molecular Sciences, 21(13),
-4618.
+activities. International Journal of Molecular Sciences, 21(13), 4618.
 
 
 
@@ -103,8 +101,7 @@ Journal of Pharmacognosy, 11(1), 19-31.
 Mirfakhraie, R., Mahmoodi Khatonabadi, S., Sirati-Sabet, M., Gholamali
 Yaghmaei, B. G., ... & Sadat Rezaei, M. (2021). Umbelliprenin suppresses
 angiogenesis signaling in SKBR-3 cell line by downregulation of EGF/CoCl2-mediated
-PI3K/AKT/MAPK. Research Journal of Pharmacognosy, 8(1),
-7-18.
+PI3K/AKT/MAPK. Research Journal of Pharmacognosy, 8(1), 7-18.
 
 
 
