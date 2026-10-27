@@ -1,118 +1,152 @@
 # Refrences
 
-- Aas, Z., Babaei, E., Feizi, M. H., &
-Dehghan, G. (2015). Anti-proliferative and apoptotic effects of dendrosomal
-farnesiferol C on gastric cancer cells. Asian Pac J Cancer Prev, 16(13),
-5325-9.
-
-
-
-- Adamska, A., & Falasca, M.
-(2018). ATP-binding cassette transporters in progression and clinical outcome
-of pancreatic cancer: What is the way forward? World
-Journal of Gastroenterology, 24(29), 3222.
-
-
-
-- Afsharzadeh, M., Abnous, K., Yazdian–Robati,
-R., Ataranzadeh, A., Ramezani, M., & Hashemi, M. (2018). Formulation and
-evaluation of anticancer and antiangiogenesis efficiency of PLA–PEG
-nanoparticles loaded with galbanic acid in C26 colon carcinoma, in vitro and in
-vivo. Journal of Cellular Physiology, 234(5), 6099-6107.
-
-
-
-- Ahmad, B., Ouahada, K., & Hamam, H. (2026). Machine learning
-for drug-target interaction prediction: A comprehensive review of models,
-challenges, and computational strategies. Computational and Structural
-Biotechnology Journal, 31, 316–345
-
-
-
-- Ahmadi, A., Hosseini, F., Sarvi, Z. N.,
-Iranshahi, M., & Rassouli, F. B. (2025). Harnessing the metastatic
-potential of human osteosarcoma cells by natural coumarin galbanic acid. Naunyn-Schmiedeberg's
-Archives of Pharmacology, 398(9), 12633–12646. 
-
-
-
-- Ahmed, S., Khan, H., Aschner, M.,
-Mirzae, H., Küpeli Akkol, E., & Capasso, R. (2020). Anticancer potential of
-furanocoumarins: mechanistic and therapeutic aspects. International
-Journal of Molecular Sciences, 21(16), 5622.
-
-
-
-- Alafnan, A., Alamri, A., Alanazi,
-J., & Hussain, T. (2022). Farnesiferol C exerts Antiproliferative effects
-on hepatocellular carcinoma HepG2 cells by instigating ROS-dependent apoptotic
-pathway. Pharmaceuticals, 15(9), 1070.
-
-
-
-- Aldaghi, L., Rad, A., Arab, A.,
-Kasaian, J., Iranshahi, M., Sadr, A. S., & Soltani, F. (2016). In silico
-and in vitro evaluation of cytotoxic activities of farnesiferol c and
-microlobin on MCF-7, HeLa and KYSE cell lines. Drug Research, 66(10),
-532-538.
-
-
-
-- Alhassan, A. M., Abdullahi, M. I.,
-Uba, A., & Umar, A. (2014). Prenylation of Aromatic Secondary Metabolites:
-A New Frontier for Development of Novel Drugs. Tropical Journal of
-Pharmaceutical Research, 13(2), 307.
-
-
-
-- Ambjørner, S. E., Wiese, M., Köhler,
-S. C., Svindt, J., Lund, X. L., Gajhede, M., Saaby,
-L., Brodin, B., Rump, S., Weigt ,
-H., Brünner , N., &
-Stenvang, J. (2020). The pyrazolo [3, 4-d] pyrimidine derivative, SCO-201,
-reverses multidrug resistance mediated by ABCG2/BCRP. Cells, 9(3), 613.
-
-
-
-- André, T., Boni, C., Mounedji-Boudiaf, L.,
-Navarro, M., Tabernero, J., Hickish, T., Topham, C., Zaninelli, M., Clingan,
-P., Bridgewater, J., Tabah-Fisch, I., & de Gramont, A. (2004). Oxaliplatin,
-fluorouracil, and leucovorin as adjuvant treatment for colon cancer. New
-England Journal of Medicine, 350(23), 2343–2351. 
-
-
-
-- Annunziata, F., Pinna, C.,
-Dallavalle, S., Tamborini, L., & Pinto, A. (2020). An overview of coumarin
-as a versatile and readily accessible scaffold with broad-ranging biological
-activities. International Journal of Molecular Sciences, 21(13), 4618.
-
-
-
-- Atabakhshian, R., Moshirpour, M.,
-Farjoo, M. H., & Ghafghazi, S. (2024). Inhibition of EGF and CoCl2-induced
-HIF-1α and VEGF production in triple negative MDA-MB-468 cells by
-umbelliprenin: unveiling the role of PI3K/AKT/mTOR and MAPK pathways. Research
-Journal of Pharmacognosy, 11(1), 19-31.
-
-
-
-- Atabakhshian, R., Salami, S.,
-Mirfakhraie, R., Mahmoodi Khatonabadi, S., Sirati-Sabet, M., Gholamali
-Yaghmaei, B. G., ... & Sadat Rezaei, M. (2021). Umbelliprenin suppresses
-angiogenesis signaling in SKBR-3 cell line by downregulation of EGF/CoCl2-mediated
-PI3K/AKT/MAPK. Research Journal of Pharmacognosy, 8(1), 7-18.
-
-
-
-- Azad, M., Hosseini, F., Hassanzade,
-H., Gharedaghi, S., Mahdipour, E., Rassouli, F. B., & Jamialahmadi, K.
-(2024). Galbanic acid suppresses melanoma cell migration and invasion by
-reducing MMP activity and downregulating N-cadherin and fibronectin. Naunyn-Schmiedeberg's
-Archives of Pharmacology, 397(8), 5779-5788.
-
-
-
-- Azadbeigi, P., Seyedshazileh, S.,
-Gharaiean-Morshed, A., Iranshahi, M., & Rassouli, F. B. (2026). Natural
-coumarins galbanic acid and
+- Aas, Z., Babaei, E., Feizi, M. H., & Dehghan, G. (2015). Anti-proliferative and apoptotic effects of dendrosomal farnesiferol C on gastric cancer cells. Asian Pac J Cancer Prev, 16(13), 5325-9.
+- Adamska, A., & Falasca, M. (2018). ATP-binding cassette transporters in progression and clinical outcome of pancreatic cancer: What is the way forward? World Journal of Gastroenterology, 24(29), 3222.
+- Afsharzadeh, M., Abnous, K., Yazdian–Robati, R., Ataranzadeh, A., Ramezani, M., & Hashemi, M. (2018). Formulation and evaluation of anticancer and antiangiogenesis efficiency of PLA–PEG nanoparticles loaded with galbanic acid in C26 colon carcinoma, in vitro and in vivo. Journal of Cellular Physiology, 234(5), 6099-6107.
+- Ahmad, B., Ouahada, K., & Hamam, H. (2026). Machine learning for drug-target interaction prediction: A comprehensive review of models, challenges, and computational strategies. Computational and Structural Biotechnology Journal, 31, 316–345
+- Ahmadi, A., Hosseini, F., Sarvi, Z. N., Iranshahi, M., & Rassouli, F. B. (2025). Harnessing the metastatic potential of human osteosarcoma cells by natural coumarin galbanic acid. Naunyn-Schmiedeberg's Archives of Pharmacology, 398(9), 12633–12646. 
+- Ahmed, S., Khan, H., Aschner, M., Mirzae, H., Küpeli Akkol, E., & Capasso, R. (2020). Anticancer potential of furanocoumarins: mechanistic and therapeutic aspects. International Journal of Molecular Sciences, 21(16), 5622.
+- Alafnan, A., Alamri, A., Alanazi, J., & Hussain, T. (2022). Farnesiferol C exerts Antiproliferative effects on hepatocellular carcinoma HepG2 cells by instigating ROS-dependent apoptotic pathway. Pharmaceuticals, 15(9), 1070.
+- Aldaghi, L., Rad, A., Arab, A., Kasaian, J., Iranshahi, M., Sadr, A. S., & Soltani, F. (2016). In silico and in vitro evaluation of cytotoxic activities of farnesiferol c and microlobin on MCF-7, HeLa and KYSE cell lines. Drug Research, 66(10), 532-538.
+- Alhassan, A. M., Abdullahi, M. I., Uba, A., & Umar, A. (2014). Prenylation of Aromatic Secondary Metabolites: A New Frontier for Development of Novel Drugs. Tropical Journal of Pharmaceutical Research, 13(2), 307.
+- Ambjørner, S. E., Wiese, M., Köhler, S. C., Svindt, J., Lund, X. L., Gajhede, M., Saaby, L., Brodin, B., Rump, S., Weigt , H., Brünner , N., & Stenvang, J. (2020). The pyrazolo [3, 4-d] pyrimidine derivative, SCO-201, reverses multidrug resistance mediated by ABCG2/BCRP. Cells, 9(3), 613.
+- André, T., Boni, C., Mounedji-Boudiaf, L., Navarro, M., Tabernero, J., Hickish, T., Topham, C., Zaninelli, M., Clingan, P., Bridgewater, J., Tabah-Fisch, I., & de Gramont, A. (2004). Oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment for colon cancer. New England Journal of Medicine, 350(23), 2343–2351. 
+- Annunziata, F., Pinna, C., Dallavalle, S., Tamborini, L., & Pinto, A. (2020). An overview of coumarin as a versatile and readily accessible scaffold with broad-ranging biological activities. International Journal of Molecular Sciences, 21(13), 4618.
+- Atabakhshian, R., Moshirpour, M., Farjoo, M. H., & Ghafghazi, S. (2024). Inhibition of EGF and CoCl2-induced HIF-1α and VEGF production in triple negative MDA-MB-468 cells by umbelliprenin: unveiling the role of PI3K/AKT/mTOR and MAPK pathways. Research Journal of Pharmacognosy, 11(1), 19-31.
+- Atabakhshian, R., Salami, S., Mirfakhraie, R., Mahmoodi Khatonabadi, S., Sirati-Sabet, M., Gholamali Yaghmaei, B. G., ... & Sadat Rezaei, M. (2021). Umbelliprenin suppresses angiogenesis signaling in SKBR-3 cell line by downregulation of EGF/CoCl2-mediated PI3K/AKT/MAPK. Research Journal of Pharmacognosy, 8(1), 7-18.
+- Azad, M., Hosseini, F., Hassanzade, H., Gharedaghi, S., Mahdipour, E., Rassouli, F. B., & Jamialahmadi, K. (2024). Galbanic acid suppresses melanoma cell migration and invasion by reducing MMP activity and downregulating N-cadherin and fibronectin. Naunyn-Schmiedeberg's Archives of Pharmacology, 397(8), 5779-5788.
+- Azadbeigi, P., Seyedshazileh, S., Gharaiean-Morshed, A., Iranshahi, M., & Rassouli, F. B. (2026). Natural coumarins galbanic acid and auraptene improved the efficacy of Alkeran on human osteosarcoma cells by targeting ABC transporters. Chemistry & Biodiversity, 23(5), e02926.
+- Babajnai, A., Rahmani, S., Asadi, M. J., Gheytanchi, E., Adibhesami, G., Vakhshiteh, F., & Madjd, Z. (2025). Molecular and phenotypic characterization of 5-FU resistant colorectal cancer cells: toward enrichment of cancer stem cells. Cancer Cell International, 25(1), 154.
+- Barthomeuf, C., Lim, S., Iranshahi, M., & Chollet, P. (2008). Umbelliprenin from Ferula szowitsiana inhibits the growth of human M4Beu metastatic pigmented malignant melanoma cells through cell-cycle arrest in G1 and induction of caspase-dependent apoptosis. Phytomedicine, 15(1-2), 103-111.
+- Bhat, A. S., Ahmed, M., Abbas, K., Mustafa, M., Alam, M., Salem, M. A. S., Islam, S., Tantry, I .Q., Singh, Y., Fatima, M., Usmani, N., Faraz, M., Afeef, M., & Habib, S. (2024). Cancer initiation and progression: a comprehensive review of carcinogenic substances, anti-cancer therapies, and regulatory frameworks. Asian Journal of Research in Biochemistry, 14(4), 111-25.
+- Bose, P., & Pattanayak, S. (2019). Herniarin, a natural coumarin, inhibits mammary carcinogenesis by modulating liver X receptor-α/β-PI3K-Akt-Maf1 Pathway in sprague-dawley rats. Pharmacognosy Magazine, 15(66), 510-519.
+- Bose, P., Pattanayak, S. P., & Priyam, A. (2020). Herniarin, a natural coumarin loaded novel targeted plasmonic silver nanoparticles for light activated chemo-photothermal therapy in preclinical model of breast cancer. Pharmacognosy Magazine, 16.
+- Bray, F., Laversanne, M., Sung, H., Ferlay, J., Siegel, R. L., Soerjomataram, I., & Jemal, A. (2024). Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA: A Cancer Journal for Clinicians, 74(3), 229–263. 
+- Bukowski, K., Kciuk, M., & Kontek, R. (2020). Mechanisms of multidrug resistance in cancer chemotherapy. International Journal of Molecular Sciences, 21(9), 3233.
+- Cai, Y., Wang, B., Li, B., Huang, X., Guo, H., Liu, Y., Chen, B., Zhao, S., Wu, S., Li, W., Wang, L., Jia, K., Wang, H., Chen, P., Jiang, M., Tang, X., Qi, H., Dai, C., Ye, J., & He, Y. (2021). Collection on reports of molecules linked to epithelial-mesenchymal transition in the process of treating metastasizing cancer: a narrative review. Annals of Translational Medicine, 9(11), 946.
+- Canellas-Socias, A., Sancho, E., & Batlle, E. (2024). Mechanisms of metastatic colorectal cancer. Nature Reviews Gastroenterology & Hepatology, 21(9), 609-625.
+- Cao, Y., Chen, E., Wang, X., Song, J., Zhang, H., & Chen, X. (2023). An emerging master inducer and regulator for epithelial-mesenchymal transition and tumor metastasis: extracellular and intracellular ATP and its molecular functions and therapeutic potential. Cancer Cell International, 23(1), 20.
+- Cartagena, G., Jadán, E., & Guarimata, J. D. (2025). Virtual Screening of Argentinian Natural Products to Identify Anti-Cancer Aurora Kinase A Inhibitors: A Combined Machine Learning and Molecular Docking Approach. Chemistry Proceedings, 18(1), 44.
+- Celià-Terrassa, T., & Kang, Y. (2024). How important is EMT for cancer metastasis? PLoS Biology, 22(2), e3002487.
+- Chang, H. J., Kim, Y. S., Ryu, S. Y., & Chun, H. S. (2013). Screening of various sources of phytochemicals for neuroprotective activity against oxygen-glucose deprivation in vitro. Journal of the Korean Society for Applied Biological Chemistry, 56(4), 451-455.
+- Chen, Y., Luo, D., & Xue, W. (2025). Deep Learning for Drug–Target Interaction Prediction: A Comprehensive Review. Chemical Biology & Drug Design, 106(4), e70183.
+- Chian, S., Li, Y.-Y., Wang, X.-J., & Tang, X.-W. (2014). Luteolin sensitizes two oxaliplatin-resistant colorectal cancer cell lines to chemotherapeutic drugs via inhibition of the Nrf2 pathway. Asian Pacific Journal of Cancer Prevention, 15(6), 2911–2916. 
+- Citarella, A., Vittorio, S., Dank, C., & Ielo, L. (2024). Syntheses, reactivity, and biological applications of coumarins. Frontiers in Chemistry, 12, 1362992.
+- Combès, E., Andrade, A. F., Tosi, D., Michaud, H.-A., Coquel, F., Garambois, V., Desigaud, D., Jarlier, M., Coquelle, A., Pasero, P., Bonnefoy, N., Moreaux, J., Martineau, P., Del Rio, M., Beijersbergen, R. L., Vezzio-Vie, N., & Gongora, C. (2019). Inhibition of Ataxia-Telangiectasia Mutated and RAD3-Related (ATR) overcomes oxaliplatin resistance and promotes antitumor immunity in colorectal cancer. Cancer Research, 79(11), 2933–2946. 
+- D’Amore, T., Bravoco, D., Di Paola, G., Albano, F., Brancaccio, M., Sabato, C., Cesta, G., Zolfanelli, C., Lauciello, V., Falco, G., & Mazzone, P. (2025). Anoikis resistance in gastric cancer: a comprehensive review. Cell Death & Disease, 16(1), 528.
+- Dai, X., Xi, M., & Li, J. (2025). Cancer metastasis: molecular mechanisms and therapeutic interventions. Molecular Biomedicine, 6(1), 20.
+- de Groot, R. A., Reedijk, D., Faucher, Q., Mihăilă, S. M., & Masereeuw, R. (2025). Strategies for overcoming ABC transporter-mediated multidrug resistance in colorectal cancer. American Journal of Physiology-Cell Physiology, 329(3), C699-C717.
+- Delbari, Z., Khodadadi, F., Kazemi, M., Koohpaykar, H., Iranshahi, M., Rafatpanah, H., & B. Rassouli, F. (2022). Combination of umbelliprenin and arsenic trioxide acts as an effective modality against T-cell leukemia/lymphoma cells. Natural Product Communications, 17(1), 1934578X211072334.
+- Delkhah, A. M. D., Karimi, E., & Farivar, S. (2023). Herniarin-loaded solid lipid nanoparticles: promising molecular mechanism and therapeutic potential against pancreatic cancer line. Molecular Biology Reports, 50(8), 6469-6479.
+- Deyell, M., Garris, C. S., & Laughney, A. M. (2021). Cancer metastasis as a non-healing wound. British Journal of Cancer, 124(9), 1491-1502.
+- Du, R. (2021). Research progress of EMT in cancer metastasis. In E3S Web of Conferences (Vol. 245, Article. 03049). EDP Sciences.
+- Ebrahimi Nik, M. E., Malaekeh-Nikouei, B., Amin, M., Hatamipour, M., Teymouri, M., Sadeghnia, H. R., iranshahi , M., & Jaafari, M. R. (2019). Liposomal formulation of Galbanic acid improved therapeutic efficacy of pegylated liposomal Doxorubicin in mouse colon carcinoma. Scientific reports, 9(1), 9527.
+- Ebrahimi, K., Bagheri, R., Gholamhosseinian, H., Keramati, M. R., Rafatpanah, H., Iranshahi, M., & Rassouli, F. B. (2024). Umbelliprenin improved anti-proliferative effects of ionizing radiation on adult T-cell leukemia/lymphoma cells via interaction with CDK6: an in vitro and in silico study. International Journal of Immunopathology and Pharmacology, 38, Article 03946320241287873.
+- Edalatian Tavakoli, S., Motavalizadehkakhky, A., Homayouni Tabrizi, M., Mehrzad, J., & Zhiani, R. (2024). Study of the anti-cancer activity of a mesoporous silica nanoparticle surface coated with polydopamine loaded with umbelliprenin. Scientific Reports, 14(1), 11450.
+- El-Daly, S. M., Abo-Elfadl, M. T., Hussein, J., & Abo-Zeid, M. A. (2023). Enhancement of the antitumor effect of 5-fluorouracil with modulation in drug transporters expression using PI3K inhibitors in colorectal cancer cells. Life Sciences, 315, 121320.
+- Elmusa, S., Elmusa, M., Elmusa, B., & Kasımoğulları, R. (2025). Coumarins: chemical Synthesis, properties and applications. Duzce University Journal of Science and Technology, 13(1), 131-170.
+- Eskandani, M., Abdolalizadeh, J., Hamishehkar, H., Nazemiyeh, H., & Barar, J. (2015). Galbanic acid inhibits HIF-1α expression via EGFR/HIF-1α pathway in cancer cells. Fitoterapia, 101, 1-11.
+- Farahi, M., Hashemi, R., Rassouli, F. B., Iranshahi, M., & Soleymanifard, S. (2023). Investigation of the toxic effects of galbanic acid with ionizing radiation on human colon cancer HT-29 cells. Pharmaceutical Chemistry Journal, 57(3), 408-413.
+- Fares, J., Fares, M. Y., Khachfe, H. H., Salhab, H. A., & Fares, Y. (2020). Molecular principles of metastasis: a hallmark of cancer revisited. Signal Transduction and Targeted Therapy, 5(1), 28.
+- Fedele, M., Sgarra, R., Battista, S., Cerchia, L., & Manfioletti, G. (2022). The epithelial–mesenchymal transition at the crossroads between metabolism and tumor progression. International Journal of Molecular Sciences, 23(2), 800.
+- Gahl, M., Kim, H. W., Glukhov, E., Gerwick, W. H., & Cottrell, G. W. (2024). PECAN predicts patterns of cancer cell cytostatic activity of natural products using deep learning. Journal of Natural Products, 87(3), 567-575.
+- Ghafoor, S., Garcia, E., Jay, D. J., & Persad, S. (2025). Molecular mechanisms regulating epithelial mesenchymal transition (EMT) to promote cancer progression. International Journal of Molecular Sciences, 26(9), 4364.
+- Gholami, O., Jeddi-Tehrani, M., Iranshahi, M., Zarnani, A. H., & Ziai, S. A. (2013). Umbelliprenin from Ferula szowitsiana Activates both Intrinsic and Extrinsic Pathways of Apoptosis in Jurkat T-CLL cell line. Iranian Journal of Pharmaceutical Research, 12(3), 371.
+- Gkionis, L., Kavetsou, E., Kalospyros, A., Manousakis, D., Garzon Sanz, M., Butterworth, S.,  Detsi, A., & Tirella, A. (2021). Investigation of the cytotoxicity of bioinspired coumarin analogues towards human breast cancer cells. Molecular Diversity, 25(1), 307-321.
+- Gmeiner, W. H., & Okechukwu, C. C. (2023). Review of 5-FU resistance mechanisms in colorectal cancer: clinical significance of attenuated on-target effects. Cancer Drug Resistance, 6(2), 257.
+- Gopal, D., Muthuraj, R., Balaya, R. D. A., Kanekar, S., Ahmed, I., & Chandrasekaran, J. (2024). Computational discovery of novel FYN kinase inhibitors: a cheminformatics and machine learning-driven approach to targeted cancer and neurodegenerative therapy. Molecular Diversity, 28(6), 4343-4359.
+- Goudarzi, S., Rassouli, F. B., Kahrizi, D., Shirkhani, P., Mahdifar, M., Iranshahi, M., Rafatpanah, H., Keramati, M. R & Ayatollahi, H. (2022). Comparing toxicity of galbanic acid, auraptene and umbelliprenin on adult T-cell leukaemia-lymphoma in normoxia and hypoxia. Cellular and Molecular Biology, 68(12), 17-20.
+- Greener, J. G., Kandathil, S. M., Moffat, L., & Jones, D. T. (2022). A guide to machine learning for biologists. Nature reviews Molecular cell biology, 23(1), 40-55.
+- Grothey, A., Sobrero, A. F., Shields, A. F., Yoshino, T., Paul, J., Taieb, J., Souglakos, J., Shi, Q., Kerr, R., Labianca, R., Meyerhardt, J. A., Vernerey, D., Yamanaka, T., Boukovinas, I., Meyers, J. P., Renfro, L. A., Niedzwiecki, D., Watanabe, T., Torri, V., Saunders, M., Sargent, D. J., Andre, T., & Iveson, T. (2018). Duration of adjuvant chemotherapy for stage III colon cancer. New England Journal of Medicine, 378(13), 1177–1188.
+- Gu, Y., Yang, R., Zhang, Y., Guo, M., Takehiro, K., Zhan, M., Yang, L., & Wang, H. (2025). Molecular mechanisms and therapeutic strategies in overcoming chemotherapy resistance in cancer. Molecular biomedicine, 6(1), 2.
+- Gupta, D. K. (2024). Chemotherapy of malignancy-II. In Edited Book of Pharmacology-III: According to Latest Syllabus of B. Pharm-VI Semester of Pharmacy Council of India (IIP Series, Vol. 4, pp. 151–159). Iterative International Publishers.
+- Haghighitalab, A., Matin, M. M., Bahrami, A. R., Iranshahi, M., Haghighi, F., & Porsa, H. (2014). Enhancement of cisplatin cytotoxicity in combination with herniarin in vitro. Drug and Chemical Toxicology, 37(2), 156-162.
+- Hamidinia, M., Ramezani, M., & Mojtahedi, Z. (2013). Cytotoxic/proliferative effects of umbelliprenin on colon cancer cell lines. Iranian Journal of Colorectal Research, 1(3), 1-1.
+- Han, Y. H., Wang, Y., Lee, S. J., Jin, M. H., Sun, H. N., & Kwon, T. (2023). Regulation of anoikis by extrinsic death receptor pathways. Cell Communication and Signaling, 21(1), 227.
+- Hanafi-Bojd, M. Y., Iranshahi, M., Mosaffa, F., Tehrani, S. O., Kalalinia, F., & Behravan, J. (2011). Farnesiferol A from Ferula persica and galbanic acid from Ferula szowitsiana inhibit P-glycoprotein-mediated rhodamine efflux in breast cancer cell lines. Planta medica, 77(14), 1590-1593.
+- Hasanzadeh, D., Mahdavi, M., Dehghan, G., & Charoudeh, H. N. (2017). Farnesiferol C induces cell cycle arrest and apoptosis mediated by oxidative stress in MCF-7 cell line. Toxicology Reports, 4, 420-426.
+- Hashemi, R., Farahi, M., Bagheri, R., Iranshahi, M., Torabinejad, S., Gharedaghi, S., & Soleymanifard, S. (2021). In vitro study of Radiosensitivity Effects of Galbanic Acid on ovarian tumor cells (OVCAR-3 cell line). Natural Product Communications, 16(10), 1934578X211046068.
+- Heghes, S. C., Vostinaru, O., Mogosan, C., Miere, D., Iuga, C. A., & Filip, L. (2022). Safety profile of nutraceuticals rich in coumarins: An update. Frontiers in Pharmacology, 13, 803338.
+- Hossain, M. B., & Haldar Neer, A. H. (2023). Chemotherapy. In A. S. Qazi & K. Tariq (Eds.), Therapeutic approaches in cancer treatment (Cancer Treatment and Research, Vol. 185, pp. 49–58). Springer.
+- Huang, Y., Hong, W., & Wei, X. (2022). The molecular mechanisms and therapeutic strategies of EMT in tumor progression and metastasis. Journal of Hematology & Oncology, 15(1), 129.
+- Hurwitz, H. I., Tan, B. R., Reeves, J. A., Xiong, H., Somer, B., Lenz, H. J., Hochster, H. S., Scappaticci, F., Palma, J. F., Price, R., Lee, J. J., Nicholas, A., Sommer, N., & Bendell, J. (2019). Phase II randomized trial of sequential or concurrent FOLFOXIRI-bevacizumab versus FOLFOX-bevacizumab for metastatic colorectal cancer (STEAM). The Oncologist, 24(7), 921–932.
+- Jafari, A., Teymouri, M., Nik, M. E., Abbasi, A., Iranshahi, M., Hanafi-Bojd, M. Y., & Jafari, M. R. (2019). Interactive anticancer effect of nanomicellar curcumin and galbanic acid combination therapy with some common chemotherapeutics in colon carcinoma cells. Avicenna journal of phytomedicine, 9(3), 237.
+- Jasim, L. M. M., Tabrizi, M. H., Darabi, E., & Jaseem, M. M. M. (2023). The antioxidant, anti-angiogenic, and anticancer impact of chitosan-coated herniarin-graphene oxide nanoparticles (CHG-NPs). Heliyon, 9(9).
+- Jin, J., Li, H., Li, P., Xing, L., Huang, X., Zhang, J., Zhou, X., Qin, W., He, C., Zhao, D., Chu, H., Ma, Y., & Cao, H. (2023). Pharmacological Advances of Coumarin and Its Derivatives. Indian Journal of Pharmaceutical Sciences, 85(3).
+- Jung, J. H., Kim, M. J., Lee, H., Lee, J., Kim, J., Lee, H. J., Shin, E. A ., Kim, Y. H ., Kim, B., Shim, B. S ., & Kim, S. H. (2016). Farnesiferol c induces apoptosis via regulation of L11 and c-Myc with combinational potential with anticancer drugs in non-small-cell lung cancers. Scientific Reports, 6(1), 26844.
+- Jung, J. H., Park, J. E., Sim, D. Y., Im, E., Park, W. Y., Lee, D., Shim, B.-S & Kim, S. H. (2019). Farnesiferol C induces apoptosis in chronic myelogenous leukemia cells as an imatinib sensitizer via caspase activation and HDAC (histone deacetylase) inactivation. International Journal of Molecular Sciences, 20(22), 5535.
+- Kamalkazemi, E., Dehghan, G., Abedi-Gaballu, F., Babaei, E., & Baradaran, B. (2023). Umbelliprenin-loaded nanostructured lipid carrier: A novel approach for inducing cytotoxicity and apoptosis in colorectal cancer cells by altering the p53, survivin, and Bax/Bcl2 ratio. Gene Reports, 30, 101732.
+- Kasaian, J., & Mohammadi, A. (2018). Biological activities of farnesiferol C: a review. Journal of Asian natural products research, 20(1), 27-35.
+- Kasaian, J., Mosaffa, F., Behravan, J., Masullo, M., Piacente, S., Ghandadi, M., & Iranshahi, M. (2015). Reversal of P-glycoprotein-mediated multidrug resistance in MCF-7/Adr cancer cells by sesquiterpene coumarins. Fitoterapia, 103, 149-154.
+- Katrib, B., Adel, A., Abadleh, M., Daoud, S., & Taha, M. (2025). Computational discovery of novel PI3KC2α inhibitors using structure-based pharmacophore modeling, machine learning and molecular dynamic simulation. Journal of Molecular Graphics and Modelling, 137, 109016.
+- Kaur, S., Mayanglambam, P., Bajwan, D., & Thakur, N. (2022). Chemotherapy and its adverse effects-A systematic review. International Journal of Nursing Education and Research, 10(4), 399-402.
+- Khaghanzadeh, N., Mojtahedi, Z., Ramezani, M., Erfani, N., & Ghaderi, A. (2012). Umbelliprenin is cytotoxic against QU-DB large cell lung cancer cell line but anti-proliferative against A549 adenocarcinoma cells. DARU Journal of Pharmaceutical Sciences, 20(1), 69.
+- Khaghanzadeh, N., Nakamura, K., Kuramitsu, Y., Ghaderi, A., & Mojtahedi, Z. (2016). Immune-associated proteins with potential in vivo anti-tumor activities are upregulated in lung cancer cells treated with umbelliprenin: A proteomic approach. Oncology letters, 12(6), 5295-5302.
+- Khaghanzadeh, N., Samiei, A., Mojtahedi, Z., Ramezani, M., Hosseinzadeh, M., & Ghaderi, A. (2014). Umbelliprenin induced production of IFN-γ and TNF-α, and reduced IL-10, IL-4, Foxp3 and TGF-β in a mouse model of lung cancer. Immunopharmacology and Immunotoxicology, 36(1), 25–32.
+- Khan, A., Alshabrmi, F. M., Mohammad, A., Shkoor, M., Al-Zoubi, R. M., Ming, L. C., & Agouni, A. (2026). An Integrative Computational Pipeline for CK2 Inhibitor Discovery in Triple-Negative Breast Cancer Using Virtual Screening, Molecular Dynamics, Machine Learning, and Density Functional Theory. Pharmaceuticals, 19(5), 694.
+- Khorramizadeh, M. R., Esmail-Nazari, Z., Zarei-Ghaane, Z., Shakibaie, M., Mollazadeh-Moghaddam, K., Iranshahi, M., & Shahverdi, A. R. (2010). Umbelliprenin-coated Fe3O4 magnetite nanoparticles: Antiproliferation evaluation on human Fibrosarcoma cell line (HT-1080). Materials Science and Engineering: C, 30(7), 1038-1042.
+- Kim, K.-H., Lee, H.-J., Jeong, S.-J., Lee, H.-J., Lee, E.-O., Kim, H.-S., Zhang, Y., Ryu, S.-Y., Lee, M.-H., Lü, J., & Kim, S.-H. (2011). Galbanic acid isolated from Ferula assafoetida exerts in vivo anti-tumor activity in association with anti-angiogenesis and anti-proliferation. Pharmaceutical Research, 28(3), 597–609. 
+- Kim, Y. H., Shin, E. A., Jung, J. H., Park, J. E., Koo, J., Koo, J. I., Shim, B. S., & Kim, S.-H. (2019). Galbanic acid potentiates TRAIL induced apoptosis in resistant non-small cell lung cancer cells via inhibition of MDR1 and activation of caspases and DR5. European Journal of Pharmacology, 847, 91–96. 
+- Kubrak, T. P., Makuch-Kocka, A., & Aebisher, D. (2025). Coumarins in anticancer therapy: mechanisms of action, potential Applications and research Perspectives. Pharmaceutics, 17(5), 595.
+- Lee, J. H., Choi, S., Lee, Y., Lee, H. J., Kim, K. H., Ahn, K. S., Bae, H., Lee, H. J., Lee, E. O., Ahn, K. S., Ryu, S. Y., Lü, J., & Kim, S. H. (2010). Herbal compound farnesiferol C exerts antiangiogenic and antitumor activity and targets multiple aspects of VEGFR1 (Flt1) or VEGFR2 (Flk1) signaling cascades. Molecular Cancer Therapeutics, 9(2), 389–39.
+- Li, M., Cao, S., & Xu, R. H. (2025). Global trends and epidemiological shifts in gastrointestinal cancers: insights from the past four decades. Cancer Communications, 45(7), 774-788.
+- Liao, Y. (2022). Factors that cause and affect cancer metastases, the targeted therapy and potential treatments. In 2021 International Conference on Public Art and Human Development (ICPAHD 2021) (pp. 378-381). Atlantis Press.
+- Liu, X., Wu, B., Chen, H., Sun, H., Guo, X., Sun, T., Zhou, D., & Yang, S. (2022). Intense endoplasmic reticulum stress (ERS)/IRE1α enhanced oxaliplatin efficacy by decreased ABCC10 in colorectal cancer cells. BMC Cancer, 22, 1369. 
+- Lu, J., Kornmann, M., & Traub, B. (2023). Role of epithelial to mesenchymal transition in colorectal cancer. International Journal of Molecular Sciences, 24(19), 14815.
+- Mahdifar, M., Rassouli, F. B., Iranshahi, M., Goudarzi, S., Golizadeh, M., & Rafatpanah, H. (2023). Galbanic acid improves accumulation and toxicity of arsenic trioxide in MT-2 cells. Anti-Cancer Agents in Medicinal Chemistry, 23(6), 699-708.
+- Mahmoodi Khatonabadi, S., Atabakhshian, R., Mirfakhraie, R., & Ghafghazi, S. (2024). Effect of Umbelliprenin on HIF-1α-Driven Angiogenesis Induced by EGF and CoCl2 in T47D Cell Line. Research Journal of Pharmacognosy, 11(3), 1-13.
+- Mahmoodi Khatonabadi, S., Salami, S., Mirfakhraie, R., Atabakhshian, R., Sirati-Sabet, M., Gholamali Yaghmaei, B., Ghafghazi, S., & Ziai, S. A. (2022). Umbelliprenin inhibited angiogenesis and metastasis of MDA-MB-231 cell line through downregulation of CoCl₂/EGF-mediated PI3K/AKT/ERK signaling. Middle East Journal of Cancer, 13(2), 226–236.
+- Majnooni, M. B., Fakhri, S., Smeriglio, A., Trombetta, D., Croley, C. R., Bhattacharyya, P., Sobarzo-Sánchez, E., Farzaei, M. H & Bishayee, A. (2019). Antiangiogenic effects of coumarins against cancer: From chemistry to medicine. Molecules, 24(23), 4278.
+- Mansour, H., Hassan, G., Afify, S. M., Yan, T., Seno, A., & Seno, M. (2020). Metastasis model of cancer stem cell-derived tumors. Methods and Protocols, 3(3), 60.
+- Meiliana, A., Dewi, N. M., & Wijaya, A. (2022). Targeting metastatic cancer: disseminated tumor cells and premetastatic niches. The Indonesian Biomedical Journal, 14(4), 329-48.
+- MF Gonçalves, B., SP Cardoso, D., & U. Ferreira, M. J. (2020). Overcoming multidrug resistance: flavonoid and terpenoid nitrogen-containing derivatives as ABC transporter modulators. Molecules, 25(15), 3364.
+- Mohtashami, L., Ghows, N., Tayarani-Najaran, Z., & Iranshahi, M. (2019). Galbanic acid-coated Fe₃O₄ magnetic nanoparticles with enhanced cytotoxicity to prostate cancer cells. Planta Medica, 85(2), 169–178. 
+- Mondal, H., Bishal, A., Debnath, B., Patel, A., Das, J., & Taj, T. (2026). AI-driven drug–target interaction prediction: current progress, challenges, and future roadmap for precision medicine. Journal of Computer-Aided Molecular Design, 40(1), 89.
+- Moosavinejad, N., Nasiri Sarvi, Z., Gholamhosseinian, H., Iranshahi, M., & Rassouli, F. B. (2025). Farnesiferol C enhances the effects of chemotherapy and ionising radiation in human melanoma cells via targeting topoisomerase II alpha. Journal of Enzyme Inhibition and Medicinal Chemistry, 40(1), 2565463.
+- Moretto, R., Rossini, D., Polito, M. G., Antoniotti, C., Intini, R., Conca, V., Andena, P., Carullo, M., Salvatore, L., Germani, M. M., Bergamo, F., Passardi, A., Ciracì, P., Tamburini, E., Boccaccio, C., Zaniboni, A., Masi, G., Pietrantonio, F., Lonardi, S., & Cremolini, C. (2025). The relative dose intensity of first-line FOLFOXIRI and FOLFOX/FOLFIRI both in combination with bevacizumab affects prognosis of metastatic colorectal cancer patients: A pooled analysis of TRIBE and TRIBE2 studies. European Journal of Cancer, 222, 115470.
+- Morgan, E., Arnold, M., Gini, A., Lorenzoni, V., Cabasag, C. J., Laversanne, M., Vignat, J., Ferlay, J., Murphy, N., & Bray, F. (2023). Global burden of colorectal cancer in 2020 and 2040: incidence and mortality estimates from GLOBOCAN. Gut, 72(2), 338-344.
+- Motlagh, F. M., & Gholami, O. (2016). Comparison of umbelliprenin and auraptene in cytotoxic effects and myeloid cell leukemia type-1 (Mcl-1) gene expression. Indian Journal of Pharmaceutical Sciences, 78(6), 827-833.
+- Mousavi, S. H., Davari, A. S., Iranshahi, M., Sabouri-Rad, S., & Najaran, Z. T. (2015). Comparative analysis of the cytotoxic effect of 7-prenyloxycoumarin compounds and herniarin on MCF-7 cell line. Avicenna journal of phytomedicine, 5(6), 520
+- Mousavi, S. H., Davari, A. S., Iranshahi, M., Sabouri-Rad, S., & Najaran, Z. T. (2015). Comparative analysis of the cytotoxic effect of 7-prenyloxycoumarin compounds and herniarin on MCF-7 cell line. Avicenna journal of phytomedicine, 5(6), 520.
+- Munson, B. P., Chen, M., Bogosian, A., Kreisberg, J. F., Licon, K., Abagyan, R., Kuenzi, B. M., & Ideker, T. (2024). De novo generation of multi-target compounds using deep generative chemistry. Nature Communications, 15(1), 3636. 
+- Musa, M. A., & Kolawole, Q. (2023). 7, 8-Diacetoxy-3-(4-methylsulfonylphenyl)-4-phenylcoumarin induces ROS-dependent cell death in the A549 human lung cancer cell line. Anticancer Research, 43(3), 1001-1007.
+- Mustafa, Y. F., Khalil, R. R., Mohammed, E. T., Bashir, M. K., & Oglah, M. K. (2021). Effects of structural manipulation on the bioactivity of some coumarin-based products. Archives of Razi Institute, 76(5), 1297–1305.
+- Naderi Alizadeh, M., Rashidi, M., Muhammadnejad, A., Moeini Zanjani, T., & Ziai, S. A. (2018). Antitumor effects of umbelliprenin in a mouse model of colorectal cancer. Iranian Journal of Pharmaceutical Research, 17(3), 976–985.
+- Nie, F., Sun, X., Sun, J., Zhang, J., & Wang, Y. (2025). Epithelial-mesenchymal transition in colorectal cancer metastasis and progression: molecular mechanisms and therapeutic strategies. Cell Death Discovery, 11(1), 336.
+- Niu, Y., Yang, W., Qian, H., & Sun, Y. (2022). Intracellular and extracellular factors of colorectal cancer liver metastasis: a pivotal perplex to be fully elucidated. Cancer Cell International, 22(1), 341.
+- Porras-Dávila, S. L., Jiménez-Ferrer, E., Román Ramos, R., González-Cortazar, M., Almanza-Pérez, J. C., & Herrera-Ruiz, M. (2022). Herniarin, dimethylfraxetin and extracts from Tagetes lucida, in psychosis secondary to ketamine and its interaction with haloperidol. Plants, 11(20), 2789.
+- Quilaqueo-Millaqueo, N., Brown-Brown, D. A., Vidal-Vidal, J. A., & Niechi, I. (2024). NOX proteins and ROS generation: Role in invadopodia formation and cancer cell invasion. Biological Research, 57(1), 98.
+- Raji, E., Vahedian, V., Golshanrad, P., Nahavandi, R., Behshood, P., Soltani, N., Gharibi, M., Rashidi, M., & Maroufi, N. F. (2023). The potential therapeutic effects of Galbanic acid on cancer. Pathology-Research and Practice, 248, 154686.
+- Rashidi, M., Ziai, S. A., Zanjani, T. M., Khalilnezhad, A., Jamshidi, H., & Amani, D. (2016). Umbelliprenin is potentially toxic against the HT29, CT26, MCF-7, 4T1, A172, and GL26 cell lines, potentially harmful against bone marrow-derived stem cells, and non-toxic against peripheral blood mononuclear cells. Iranian Red Crescent Medical Journal, 18(7), e35167.
+- Robey, R. W., Pluchino, K. M., Hall, M. D., Fojo, A. T., Bates, S. E., & Gottesman, M. M. (2018). Revisiting the role of ABC transporters in multidrug-resistant cancer. Nature Reviews Cancer, 18(7), 452–464.
+- Sabouni, E., Maghsodlou Nejad, M., Mojtabavi, S., Khoshduz, S., Mojtabavi, M., Nadafzadeh, N., Nikpanjeh, N., Mirzaei, S., Hashemi, M., Aref, A. R., Khorrami, R., Nabavi, N., Ertas, Y. N., Salimimoghadam, S., Zandieh, M. A., Rahmanian, P., Taheriazam, A., & Hushmandi, K. (2023). Unraveling the function of epithelial-mesenchymal transition (EMT) in colorectal cancer: Metastasis, therapy response, and revisiting molecular pathways. Biomedicine & Pharmacotherapy, 160, 114395. 
+- Sajjadi, M., Karimi, E., Oskoueian, E., Iranshahi, M., & Neamati, A. (2019). Galbanic acid: induced antiproliferation in estrogen receptor‐negative breast cancer cells and enhanced cellular redox state in the human dermal fibroblasts. Journal of Biochemical and Molecular Toxicology, 33(11), e22402.
+- Sanci, T. O., Terzi, E., Oz Bedir, B. E., Gumustas, M., Aydin, T., & Cakir, A. (2024). Effect of herniarin on cell viability, cell cycle, and Erk protein levels in different stages of bladder cancer cells. Chemistry & Biodiversity, 21(3), e202301645.
+- Sangamithra, A. (2021). The causes of cancer: An analysis of avoidable risk factors. Shanlax International Journal of Economics, 9(2), 37-40. 
+- Sawicki, T., Ruszkowska, M., Danielewicz, A., Niedźwiedzka, E., Arłukowicz, T., & Przybyłowicz, K. E. (2021). A review of colorectal cancer in terms of epidemiology, risk factors, development, symptoms and diagnosis. Cancers, 13(9), 2025.
+- Seetharam, R. N., Sood, A., & Goel, S. (2009). Oxaliplatin: pre-clinical perspectives on the mechanisms of action, response and resistance. ecancermedicalscience, 3, 153.
+- Şeker Karatoprak, G., Dumlupınar, B., Celep, E., Kurt Celep, I., Küpeli Akkol, E., & Sobarzo-Sánchez, E. (2024). A comprehensive review on the potential of coumarin and related derivatives as multi-target therapeutic agents in the management of gynecological cancers. Frontiers in Pharmacology, 15, 1423480.
+- Shahzadi, I., Ali, Z., Baek, S. H., Mirza, B., & Ahn, K. S. (2020). Assessment of the antitumor potential of umbelliprenin, a naturally occurring sesquiterpene coumarin. Biomedicines, 8(5), 126.
+- Shakiba, M., & Rassouli, F. B. (2024). Joining up the scattered anticancer knowledge on auraptene and umbelliprenin: a meta-analysis. Scientific Reports, 14(1), 11770.
+- Shibata, M. A., & Taniguchi, K. (2023). Metastasis Inhibition. International Journal of Molecular Sciences, 24(8), 7123.
+- Shin, A. E., Giancotti, F. G., & Rustgi, A. K. (2023). Metastatic colorectal cancer: mechanisms and emerging therapeutics. Trends in Pharmacological Sciences, 44(4), 222-236.
+- Sistani, P., Dehghan, G., & Sadeghi, L. (2021). Structural and kinetic insights into HIV-1 reverse transcriptase inhibition by farnesiferol C. International journal of biological macromolecules, 174, 309-318.
+- Stephenson, M. J., & Brodelius, P. E. (2025). Prediction of the reaction mechanisms of sesquiterpene coumarin synthases supports a direct evolutionary link with triterpene biosynthesis. Phytochemistry Reviews, 24(6), 4853-4916.
+- Sun, W., Ge, Y., Cui, J., Yu, Y., & Liu, B. (2021). Scutellarin resensitizes oxaliplatin-resistant colorectal cancer cells to oxaliplatin treatment through inhibition of PKM2. Molecular Therapy-Oncolytics, 21, 87-97.
+- Tanzadehpanah, H., Mahaki, H., Samadi, P., Karimi, J., Hosseinpour Moghadam, N., Salehzadeh, S., Dastan , D., & Saidijam, M. (2019). Anticancer activity, calf thymus DNA and human serum albumin binding properties of Farnesiferol C from Ferula pseudalliacea. Journal of Biomolecular Structure and Dynamics, 37(11), 2789-2800.
+- Tian, Y., Wang, X., Wu, C., Qiao, J., Jin, H., & Li, H. (2024). A protracted war against cancer drug resistance. Cancer Cell International, 24(1), 326.
+- Tilsed, C. M., Fisher, S. A., Nowak, A. K., Lake, R. A., & Lesterhuis, W. J. (2022). Cancer chemotherapy: insights into cellular and tumor microenvironmental mechanisms of action. Frontiers in Oncology, 12, 960317.
+- Toyoda, Y., Takada, T., & Suzuki, H. (2019). Inhibitors of human ABCG2: from technical background to recent updates with clinical implications. Frontiers in Pharmacology, 10, 208.
+- Tsivileva, O. M., Koftin, O. V., & Evseeva, N. V. (2022). Coumarins as fungal metabolites with potential medicinal properties. Antibiotics, 11(9), 1156.
+- Valiahdi, S. M., Iranshahi, M., & Sahebkar, A. (2013). Cytotoxic activities of phytochemicals from Ferula species. DARU Journal of Pharmaceutical Sciences, 21(1), 39.
+- Vinod, B., & Prasanth, V. V. (2021). Synthesis and antibacterial activities of coumarins with an acyl amino side chain. International Journal of Pharmaceutical Sciences Review and Research, 68(1),1-6.
+- Wang, H., Liu, Y., Wang, Y., Xu, T., Xia, G., & Huang, X. (2023). Umbelliprenin induces autophagy and apoptosis while inhibits cancer cell stemness in pancreatic cancer cells. Cancer Medicine, 12(14), 15277-15288.
+- Wang, J., Luo, Z., Lin, L., Sui, X., Yu, L., Xu, C., Zhang, R., Zhao, Z., Zhu, Q.,  An, B., Wang, Q., Chen, B., Leung, E. L.-H & Wu, Q. (2022). Anoikis-associated lung cancer metastasis: mechanisms and therapies. Cancers 14 (19): 4791.
+- Wong, M. C., Huang, J., Lok, V., Wang, J., Fung, F., Ding, H., & Zheng, Z. J. (2021). Differences in incidence and mortality trends of colorectal cancer worldwide based on sex, age, and anatomic location. Clinical Gastroenterology and Hepatology, 19(5), 955-966.
+- Xiao, H., Zheng, Y., Ma, L., Tian, L., & Sun, Q. (2021). Clinically-relevant ABC transporter for anti-cancer drug resistance. Frontiers in Pharmacology, 12, 648407.
+- Xu, Y., Tang, Y., Xu, Q., & He, W. (2024). TMEM97 knockdown inhibits 5‐fluorouracil resistance by regulating epithelial‐mesenchymal transition and ABC transporter expression via inactivating the Akt/mTOR pathway in 5‐fluorouracil‐resistant colorectal cancer cells. Chemical Biology & Drug Design, 103(2), e14490.
+- Yadav, A. K., Shrestha, R. M., & Yadav, P. N. (2024). Anticancer mechanism of coumarin-based derivatives. European Journal of Medicinal Chemistry, 267, 116179.
+- Yang, C. Y., Lin, C. H., & Jiang, J. K. (2024). 70P Increased expression of interleukin-17 receptor A (IL-17RA) promotes cancer stem-like properties, resistance to 5-fluorouracil, and the expression of ATP-binding cassette transporters in colorectal cancer cells. ESMO Open, 9(6). : 103814
+- Yayan, J., Franke, K. J., Berger, M., Windisch, W., & Rasche, K. (2024). Adhesion, metastasis, and inhibition of cancer cells: a comprehensive review. Molecular Biology Reports, 51(1), 165.
+- Zhang, Y., Kim, K. H., Zhang, W., Guo, Y., Kim, S. H., & Lü, J. (2012). Galbanic acid decreases androgen receptor abundance and signaling and induces G1 arrest in prostate cancer cells. International journal of cancer, 130(1), 200-212.
+- Ziai, S. A., Gholami, O., Iranshahi, M., Zamani, A. H., & Jeddi-Tehrani, M. (2012). Umbelliprenin induces apoptosis in CLL cell lines. Iranian Journal of Pharmaceutical Research, 11(2), 653.
